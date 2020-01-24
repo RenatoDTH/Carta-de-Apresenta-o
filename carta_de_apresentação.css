@@ -17,6 +17,7 @@ h1 {
     color: #FF6347;
 }
 h1 span {
+    display: inline-block;
     border: 5px dotted #FF6347; 
     padding: 10px;
 }
