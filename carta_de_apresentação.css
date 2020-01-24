@@ -1,0 +1,111 @@
+html {
+    margin: 0px;
+    padding: 0px;
+}
+body {
+    font-family: 'Libre Caslon Text', serif;
+    font-size: 16px;
+    padding: 10px;
+    margin: 0px;
+    background-color: #7FFFD4;
+    color: black;
+}
+h1 {
+    font-size: 20px;
+    text-align: center;
+    padding: 15px 0px 15px 0px;
+    color: #FF6347;
+}
+h1 span {
+    border: 5px dotted #FF6347; 
+    padding: 10px;
+}
+p {
+    padding: 0px;
+    margin: 0px;
+}
+.foto {
+    border: 4px solid #FF6347;
+    border-radius: 50%;
+}
+.seção1 {
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 10px;
+}
+#head img {
+    display:block;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+#head p {
+    text-align:center;
+    color: #ff6347;
+    font-size: 20px;
+    padding-top: 10px;
+}
+#head {
+    background-image:url(https://050128.com/data/out/72/4546021-background-image.jpg);
+    background-size: cover;
+}
+table {
+    width: 100%;
+    border: 2px;
+    border-style: solid;
+    border-color: #FF6347;
+    text-align: center;
+}
+th, td {
+    border: 2px;
+    border-style: solid;
+    border-color: #FF6347;
+}
+.seleção {
+    background-color:#7FFFD4;
+    font-weight: bold;
+    color: #FF6347; 
+}
+.seção1 li {
+    font-weight: bold;
+    padding-bottom: 5px;
+}
+progress {
+background-color: #FF6347;
+width: 70%;
+height: 25px;
+color: #7FFFD4;
+}
+progress::-webkit-progress-bar {
+    background: #FF6347;
+}
+progress::-webkit-progress-value {
+    background: #7FFFD4;
+} 
+progress::-moz-progress-bar {
+    color: #7FFFD4;
+    background: #FF6347;
+}
+.contato {
+    background-color: white;
+    border-radius: 20px;
+    padding: 15px;
+    margin-bottom: 10px;   
+}
+.contato li{
+    padding:10px;
+    margin-bottom:10px;
+}
+.copyright{
+    text-align: center;
+    font-size: 10px;
+}
+video {
+    display:block;
+    margin: auto;
+    width: 280px;
+    height: 158px;
+    border-style: solid;
+    border-color: #ff6347;
+}
